@@ -1,0 +1,12 @@
+# server:v0-2-4
+FROM openjdk:8u212-jdk-alpine
+COPY env.zip /var/opt/env.zip
+
+RUN apk update && apk add unzip
+RUN mkdir /var/opt/appserver \
+&& unzip /var/opt/env.zip -d /var/opt/appserver \
+&& chmod 770 -R /var/opt/appserver
+
+EXPOSE 8080
+WORKDIR /var/opt/appserver/env/
+CMD ["./bin/catalina.sh", "run"]

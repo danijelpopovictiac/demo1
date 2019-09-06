@@ -1,0 +1,42 @@
+30-Aug-2019 08:50:07.955 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.45
+30-Aug-2019 08:50:07.957 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Aug 14 2019 22:21:25 UTC
+30-Aug-2019 08:50:07.957 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.45.0
+30-Aug-2019 08:50:07.957 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+30-Aug-2019 08:50:07.957 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+30-Aug-2019 08:50:07.957 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+30-Aug-2019 08:50:07.957 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jre1.8.0_201
+30-Aug-2019 08:50:07.958 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_201-b09
+30-Aug-2019 08:50:07.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+30-Aug-2019 08:50:07.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\DokcerTiacTalk\myfolder\env
+30-Aug-2019 08:50:07.960 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\DokcerTiacTalk\myfolder\env
+30-Aug-2019 08:50:07.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\DokcerTiacTalk\myfolder\env\conf\logging.properties
+30-Aug-2019 08:50:07.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+30-Aug-2019 08:50:07.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms4096m
+30-Aug-2019 08:50:07.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx4096m
+30-Aug-2019 08:50:07.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+30-Aug-2019 08:50:07.961 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+30-Aug-2019 08:50:07.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+30-Aug-2019 08:50:07.962 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\DokcerTiacTalk\myfolder\env
+30-Aug-2019 08:50:07.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\DokcerTiacTalk\myfolder\env
+30-Aug-2019 08:50:07.963 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\DokcerTiacTalk\myfolder\env\temp
+30-Aug-2019 08:50:07.964 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jre1.8.0_201\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Docker\Docker\Resources\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk1.8.0_201\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.1\bin;C:\Program Files\nodejs\;C:\Program Files\TortoiseSVN\bin;C:\work_side\incredibles\dev_setup\cmd\;C:\apache-ant-1.10.5\bin;C:\Program Files\TortoiseSVN\;C:\gradle-4.0.1\bin;C:\TomEE174\bin;C:\Program Files (x86)\FontForgeBuilds\bin;C:\Program Files\nodejs;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\apache-maven-3.6.1\bin;C:\Program Files\7-Zip;C:\Users\Danijel Popovic\AppData\Local\Microsoft\WindowsApps;;C:\Users\Danijel Popovic\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Danijel Popovic\AppData\Roaming\npm;C:\Users\Danijel Popovic\AppData\Local\Programs\Fiddler;.]
+30-Aug-2019 08:50:08.052 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+30-Aug-2019 08:50:08.173 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Aug-2019 08:50:08.186 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["ajp-nio-8009"]
+30-Aug-2019 08:50:08.188 INFO [main] org.apache.tomcat.util.net.NioSelectorPool.getSharedSelector Using a shared selector for servlet write/read
+30-Aug-2019 08:50:08.188 INFO [main] org.apache.catalina.startup.Catalina.load Initialization processed in 493 ms
+30-Aug-2019 08:50:08.213 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+30-Aug-2019 08:50:08.213 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet Engine: Apache Tomcat/8.5.45
+30-Aug-2019 08:50:08.221 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\DokcerTiacTalk\myfolder\env\webapps\docs]
+30-Aug-2019 08:50:08.379 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\DokcerTiacTalk\myfolder\env\webapps\docs] has finished in [157] ms
+30-Aug-2019 08:50:08.379 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\DokcerTiacTalk\myfolder\env\webapps\examples]
+30-Aug-2019 08:50:08.606 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\DokcerTiacTalk\myfolder\env\webapps\examples] has finished in [227] ms
+30-Aug-2019 08:50:08.607 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\DokcerTiacTalk\myfolder\env\webapps\host-manager]
+30-Aug-2019 08:50:08.631 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\DokcerTiacTalk\myfolder\env\webapps\host-manager] has finished in [24] ms
+30-Aug-2019 08:50:08.631 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\DokcerTiacTalk\myfolder\env\webapps\manager]
+30-Aug-2019 08:50:08.653 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\DokcerTiacTalk\myfolder\env\webapps\manager] has finished in [22] ms
+30-Aug-2019 08:50:08.653 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\DokcerTiacTalk\myfolder\env\webapps\ROOT]
+30-Aug-2019 08:50:08.671 INFO [localhost-startStop-1] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\DokcerTiacTalk\myfolder\env\webapps\ROOT] has finished in [18] ms
+30-Aug-2019 08:50:08.674 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+30-Aug-2019 08:50:08.680 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["ajp-nio-8009"]
+30-Aug-2019 08:50:08.683 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in 494 ms
